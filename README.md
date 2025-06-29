@@ -1,6 +1,6 @@
 <div align="center"> <img src="" align="center" style="width: 100%" /> </div>       
 
- ## Hi there！🤩 
+ # Hi there！🤩 
 
 💻 I'm **H2SO4**,  A curious mind studying **Computer Science**, building tools that blend elegance with power.          
 ### 🌱 About Me       
