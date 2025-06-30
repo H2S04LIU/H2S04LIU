@@ -1,4 +1,4 @@
-<div align="center"> <img src="" align="center" style="width: 100%" /> </div>       
+<div align="center"> <img src="https://github.com/H2S04LIU/H2S04LIU.github.io/blob/master/img/doge.gif" align="center" style="width: 100%" /> </div>       
 
  # Hi there！🤩 
 
